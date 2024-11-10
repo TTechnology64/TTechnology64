@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TTechnology64
 - 👀 I’m interested in PCB Design, soldering and artificial intelligence
 - 🌱 I’m currently learning KiCad
-- 📫 How to reach me -
+- 📫 How to reach me tobitechnology64@gmail.com
 - 😄 Pronouns: het/him 
 - ⚡ Fun fact:64 is my favorite Number 
 
