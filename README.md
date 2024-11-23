@@ -2,7 +2,7 @@
 - 👀 I’m interested in PCB Design, soldering and artificial intelligence
 - 🌱 I’m currently learning KiCad
 - 📫 How to reach me tobitechnology64@gmail.com
-- 😄 Pronouns: het/him 
+- 😄 Pronouns: he/him 
 - ⚡ Fun fact:64 is my favorite Number 
 
 <!---
